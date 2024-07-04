@@ -8,7 +8,7 @@ export const portfolio = {
   tagline:
     " This page contains the case study of Portfolio Website Project which includes the Project Overview, Tools Used and Live Links to the official product.",
   url1: "/",
-  url2: "/",
+  url2: "https://github.com/anshgangola/Portfolio_website.git",
   overview:
     "The primary purpose of this project is to serve as a comprehensive showcase of my skills and professional journey. It encompasses all the necessary information regarding my experience and accomplishments thus far. The website itself is designed to be responsive, meaning it adapts seamlessly to different devices and screen sizes. The user interface (UI) of the website has been thoughtfully crafted with a focus on simplicity. Every element and layout choice has been carefully considered to ensure a clean and user-friendly design. It is important to note that this project is not a code-along tutorial; it is a result of my own design and coding efforts. The website serves as a testament to my ability to not only design visually appealing interfaces but also implement them through coding.",
   tools: [
